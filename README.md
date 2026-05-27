@@ -10,8 +10,8 @@ infrastructure, and the integrations that hold them together.
 - System design, edge-case handling, and reliable distributed workflows
 
 **Recent**
-- 🏆 Winner — Smart India Hackathon 
-- 🔧 Building [HandsOnCloud](https://github.com/adityapatil-air/HandsOnCloud) —
+
+Building [HandsOnCloud](https://github.com/adityapatil-air/HandsOnCloud) —
  I'm building HandsOnCloud — it parses AWS CloudTrail logs through a scoring engine and turns your cloud activity into a GitHub-style heatmap. Each action is scored by impact.
 
 The problem I'm solving: freshers claim AWS hands-on experience on resumes but recruiters have no way to verify who actually did real work vs who just listed it. HandsOnCloud gives verifiable proof directly from CloudTrail data.
